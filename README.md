@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raphmercp
-- 👀 I’m interested in learning about designing scalable systems and solving problems with software.
+- 👀 I’m interested in designing scalable systems and solving problems with software.
 
 
 <!---
